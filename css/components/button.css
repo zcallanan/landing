@@ -1,0 +1,15 @@
+.btn-banner {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #B57744;
+  transition: background 0.3s ease;
+  display: inline-block
+}
+
+.btn-banner:hover {
+  background: #8C5B33
+}
+
+

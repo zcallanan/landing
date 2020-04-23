@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 600px;
+  color: white;
+}
+
+.banner-content {
+  padding-left: 10%;
+}
+
+.banner-content h2 {
+  margin: 0;
+  padding: 0;
+}
+.banner-content p {
+  margin-top: 16px;
+  margin-bottom: 28px;
+}
